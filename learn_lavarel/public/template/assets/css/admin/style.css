@@ -1,0 +1,27 @@
+/* bảng đơn hàng */
+
+.login-page, .register-page {
+    -ms-flex-align: center;
+    align-items: end;
+    background-image: url("/template/image/poster/banner_login.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    /* background-position: center; */
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-direction: column;
+    flex-direction: column;
+    height: 100vh;
+    -ms-flex-pack: center;
+    justify-content: center;
+    padding: 0 10rem;
+}
+
+.login-box, .register-box {
+    width: 360px;
+
+}
+
+.info_user_order .order-item label{
+    width: 15%;
+}

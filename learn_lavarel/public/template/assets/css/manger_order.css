@@ -1,0 +1,124 @@
+body{
+    position: relative;
+}
+
+.table td, .table th {
+    padding: 0.75rem;
+    vertical-align: top;
+    border-top: 1px solid #dee2e6;
+}
+
+.table thead th {
+    vertical-align: bottom;
+    border-top: none ;
+}
+
+#order_session{
+    box-sizing: border-box;
+    padding-top: 110px;
+    padding-bottom: 30px;
+
+}
+
+.order_left_info{
+    border-right:1px solid #eee ;
+    display: block;
+
+}
+
+.Home_Info {
+    color: #1b7a45;
+    padding: 10px 20px 10px 20px;
+    cursor: pointer;
+    margin: 5px 0;
+    border: 2px solid #fff;
+}
+
+.Home_Info:nth-child(1){
+    color: #fff;
+    cursor: pointer;
+    background-color: #259c5b;
+    margin: 5px 0;
+    border: 2px solid #fff;
+}
+
+.Home_Info:nth-child(1).active{
+    border: 2px solid #fff;
+    border-radius: 5px;
+}
+
+.Home_Info a{
+    text-decoration: none;
+    color: #259c5b;
+}
+
+.Home_Info:hover{
+    border: 2px solid #1b7a45;
+    border-radius: 5px;
+}
+
+.Home_Info.active{
+    border: 2px solid #1b7a45;
+    border-radius: 5px;
+}
+
+.Home_Info h6{
+    display: inline-block;
+    font-weight: bolder;
+}
+
+.menu_order_page{
+    color: #1b7a45;
+}
+
+.under_menu{
+    border-bottom: 2px solid #1b7a45;
+    transition: all .2s ease-in;
+}
+
+
+.menu_order_page .btn_order_page{
+    width: 100%;
+    border: none;
+    outline: none;
+    background: transparent;
+    color: #1b7a45;
+    font-weight: 800;
+    font-size: 18px;
+    padding:10px 25px;
+    text-decoration: none;
+}
+
+.btn-detail .menu_order_page{
+    font-size: 18px;
+    background-color: #259c5b;
+    color: #fff;
+    padding: auto 10px;
+}
+
+.btn-detail .menu_order_page:hover{
+    background-color: #1b7a45;
+}
+
+.info_user_order .order-item{
+    padding-bottom: 10px;
+}
+
+.info_user_order .order-item label {
+    width: 31%;
+}
+
+.info_user_order .order-item span {
+    font-size: 15px;
+    font-family: "Poppins", sans-serif;
+}
+
+/* account */
+.info_left{
+    border-right: 2px solid #eee;
+}
+
+.account_user .update_info_user {
+    width: 125px;
+}
+
