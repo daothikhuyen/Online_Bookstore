@@ -9,6 +9,8 @@
 
 ## About Website
 
+-Some functions of the website
+
 ![Ảnh chụp màn hình 2025-06-09 130524](https://github.com/user-attachments/assets/051fb0f6-b165-4fec-93f8-cef206841f6e) 
 ![Ảnh chụp màn hình 2025-06-09 130623](https://github.com/user-attachments/assets/f5f6fa6a-55d1-4c21-b914-aabe641783a6)
 ![Ảnh chụp màn hình 2025-06-09 130635](https://github.com/user-attachments/assets/ebeb4301-5481-42a8-8bec-a13047fd6574)
